@@ -1,0 +1,7 @@
+{
+    "name": "Test Jetton",
+    "description": "Testing smart contract",
+    "symbol": "TEST",
+    "decimals": 9,
+    "image": "https://raw.githubusercontent.com/Kkkasum/jetton-example/main/logo.png"
+}
